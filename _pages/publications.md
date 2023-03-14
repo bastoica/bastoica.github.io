@@ -1,16 +1,14 @@
 ---
-layout: default
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-## Peer-Reviewed Conference Papers
-
-[C1] | Bogdan Alexandru Stoica, Shan Lu, Madan Musuvathi, and Suman Nath. Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection. \textit{In Proceedings of the 18th ACM SIGOPS European Conference on Computer Systems, Rome, Italy, 2023 (to appear) | EuroSys'23
+1. **Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection**.  
+<i><u>Bogdan Alexandru Stoica</u>, Shan Lu, Madan Musuvathi, and Suman Nath.</i>  
+<i>The 18th ACM SIGOPS European Conference on Computer Systems (<a href="https://2023.eurosys.org/" target="_blank"><b>EuroSys</b></a>). Rome, Italy. May, 2023.</i>  
+<i>Acceptance Rate: 16\%, 54 out of 335</i>  
+<a href="" target="_blank">Paper</a> \| <a href="" target="_blank">Slides</a> \| <a href="" target="_blank">Video</a> \| <a href="" target="_blank">Code</a>

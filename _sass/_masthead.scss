@@ -3,18 +3,24 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
+  position: sticky; /*relative;*/ /*fixed;*/
+  top: 0;
+  /*border-bottom: 1px solid $border-color;*/
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background-color: $maroon;
+  width: 100%;
+  background: $maroon; /*transparent;*/  // set a color to hide content that may appear below masthead
+  // height: $header-height; // need a magic number here which may break in different viewports
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.5em 0.5em 0.5em;
+	//padding: 0em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -28,6 +34,16 @@
     a {
       text-decoration: none;
     }
+  }
+  
+  &__sticky {
+    @include clearfix();
+    background-color: $maroon;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0em;
+    width: 100%;
+    background: transparent;
   }
 }
 

@@ -175,7 +175,9 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent; /*$background-color;*/
+  font-size: $type-size-6;
+  font-weight: bold;
 
   a {
     display: block;
@@ -197,7 +199,6 @@
     border: 0;
     outline: none;
     background-color: $primary-color;
-    color: #fff;
     cursor: pointer;
   }
 
@@ -207,6 +208,8 @@
     li {
       display: table-cell;
       vertical-align: middle;
+      font-weight: bold;
+      font-size: $type-size-4;
 
       &:first-child {
         font-weight: bold;
@@ -263,7 +266,6 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -315,6 +317,7 @@
 
 .nav__list {
   font-size: 1.25rem;
+  font-weight: bold;
 
   ul {
     margin-bottom: 1em;

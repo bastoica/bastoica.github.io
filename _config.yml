@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bogdan Alexandru Stoica"
-title_separator          : "-"
+title                    : "Bogdan's Homepage"
+title_separator          : " @ "
 name                     : &name "Bogdan Alexandru Stoica"
-description              : &description "PhD student in Systems at UChicago"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student in Systems @ UChicago"
+url                      : https://bastoica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bastoica/bastoica.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,14 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Bogdan A. Stoica"
-  avatar           : "profile.png"
-  bio              : "PhD student in Systems at UChicago"
-  location         : "Chicago, IL"
+  avatar           : "/metadata/profile.png"
+  bio              : "Computer Science PhD student working on fault diagnosis and performance analysis for distributed systems."
+  cv               : "/files/metadata/bogdan_alexandru_stoica_cv.pdf"
+  location         : # "Chicago, IL, USA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  dblp             : # "dblp goes here"
+  email            : "bastoica[at]uchicago[dot]edu"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +102,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : # "https://www.linkedin.com/in/bogdanalexandrustoica"
+  orcid            : # "https://orcid.org/0000-0002-0130-2065"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  mastodon         : "CacheMisses"
+  twitter          : "CacheMisses"
   vine             :
   weibo            :
   xing             :
@@ -181,10 +184,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  service:
     output: true
     permalink: /:collection/:path/
 
@@ -202,6 +205,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sticky: true
   # _pages
   - scope:
       path: ""
@@ -209,6 +213,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sticky: true
   # _teaching
   - scope:
       path: ""

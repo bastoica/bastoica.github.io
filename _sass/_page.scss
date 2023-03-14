@@ -6,6 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
+  // padding-top: $header-height;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -73,7 +74,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
