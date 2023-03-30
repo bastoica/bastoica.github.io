@@ -1,0 +1,48 @@
+---
+# layout: compress
+---
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+        
+        <div class="header-box" style="align-items:center;">
+          <div class="header-text-box">
+            <h2 class="header-headline">{{site.title}}</h2> 
+            <h4 class="header-description">{{site.description}}</h4>
+            <h4 class="header-useful-links">{{site.useful_links}}</h4>
+            <h5 class="header-contact">{{site.contact}}</h5>
+          </div>
+          <div class="header-image-box">
+            <img class="profile {{ page.profile.align }}" width="100%" src="{{ page.profile.image | prepend: '/files/metadata/' | relative_url }}">
+          </div>
+        </div>  
+
+        {% include navigation.html %}
+
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+    </head>
+
+    <body>
+        <main>
+            <article>
+                {{ content }}
+            </article>
+        </main>
+    
+        <footer>
+          <p class="copyright">
+            <small> &copy; {{site.title_short}} {{ site.time | date: '%Y' }}
+				    | Last updated on {{ site.time | date_to_long_string }}
+                    | Powered by Jekyll, adapted from 
+                    the <a class="copyright" target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a> template.
+            </small>
+          </p>
+      </footer>
+    </body>
+
+</html>

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Aleo';
+  src: url('fonts/Aleo-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('fonts/Aleo-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('fonts/Aleo-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aleo';
+  src: url('fonts/Aleo-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+$base-font-family:  'Aleo', serif;
+$base-font-size:    1.1rem;
+$base-font-weight:  400;
+$small-font-size:   $base-font-size * 0.875;
+$base-line-height:  1.5;
+
+$spacing-unit:      30px;
+$light-gray:        gray;
+$text-color:        #333;
+$light-text-color:  lighten($text-color, 25%);
+$background-color:  #fdfdfc;
+$brand-color:       #3c9957; // #60c17d;
+$projectbox-text:   #1e2126;
+
+// Color scheme for light
+$body-bg:           #fdfdfd;
+$projectbox:        #c3e1c9;
+$text-color:        #333;
+$hover-color:      	#800080;
+
+// Color scheme for dark modes
+$body-bg-dark:      #23272d;
+$brand-color-dark:  #72c88c; // #60c17d;
+$projectbox-dark:   lighten(#98a0ac, 2%);
+$text-color-dark:   #cad1db; // #98a0ac;
