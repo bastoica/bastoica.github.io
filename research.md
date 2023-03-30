@@ -1,6 +1,6 @@
 ---
-layout: clean
-permalink: /research
+layout: default
+permalink: /research/
 published: true
 ---
 
