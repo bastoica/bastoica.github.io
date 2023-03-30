@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="/bastoica/assets/css/main.css">
+        
+        <div class="header-box" style="align-items:center;">
+          <div class="header-text-box">
+            <h2 class="header-headline">Bogdan "Bo" Alexandru Stoica</h2> 
+            <h4 class="header-description">CS PhD student in Systems at UChicago</h4>
+            <h4 class="header-useful-links"><a class="useful-links" target="_blank" href="/files/metadata/bogdan_alexandru_stoica_cv.pdf">CV</a> / <a class="useful-links" target="_blank" href="https://github.com/bastoica">GitHub</a> / <a class="useful-links" target="_blank" href="https://discuss.systems/@CacheMisses">Mastodon</a> / <a class="useful-links" target="_blank" href="https://twitter.com/CacheMisses">Twitter</a></h4>
+            <h5 class="header-contact">Contact: bastoica-AT-uchicago-DOT-edu</h5>
+          </div>
+          <div class="header-image-box">
+            <img class="profile right" width="100%" src="/bastoica/files/metadata/profile.png">
+          </div>
+        </div>  
+
+        <div class="links scroll">
+        <a class="menu-item" href="/bastoica/">About</a>
+        <a class="menu-item" href="/bastoica/research/">Research</a>
+        <a class="menu-item" href="/bastoica/teaching/">Teaching</a>
+        <a class="menu-item" href="/bastoica/service/">Service</a>
+</div>
+
+
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+    </head>
+
+    <body>
+        <main>
+            <article>
+                <!--
+<hr class="news-style" style="width: 95%; ">
+-->
+
+<p>I am a Systems PhD student in the Computer Science Department at the University of Chicago. 
+I am fortunate to be advised by Prof. <a href="https://people.cs.uchicago.edu/~shanlu/" target="_blank" rel="noopener noreferrer">Shan Lu</a>, and mentored by Dr. <a href="https://www.microsoft.com/en-us/research/people/sumann/" target="_blank" rel="noopener noreferrer">Suman Nath</a> and Dr. <a href="https://www.microsoft.com/en-us/research/people/madanm/" target="_blank" rel="noopener noreferrer">Madan Musuvathi</a> from Microsoft Research. 
+My doctoral studies are supported, in part, by an <a href="https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/" target="_blank" rel="noopener noreferrer">Eckhardt Scholarship</a>.</p>
+
+<p>My research focuses on improving the correctness and performance of large-scale distributed systems.
+I build tools rooted in program analysis, code instrumentation, fault injection, and execution profiling to help developers better reason about their code and isolate bugs faster.</p>
+
+<p>Before joining UChicago, I obtained my MSc degree from the Swiss Federal Institute of Technology in Lausanne (EPFL) and my BSc degree from the University of Bucharest.
+In another lifetime, I had a grown-up job working as a Software Engineer for Microsoft and Bitdefender Labs.</p>
+
+<h4 class="news-style">Recent News</h4>
+<hr class="news-style" style="width: 95%; ">
+
+<table id="newsTable" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2022</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted at EuroSys'23. See you in Rome!</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>March<br>2022</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">This summer, I will join the Profiling group at Meta as a Research Intern mentored by Nathan Slingerland.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>February<br>2022</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committees of ASPLOS'22, EuroSys'22 and OSDI'22. Please consider submitting your code.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2021</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px;  text-align: left;">I will serve on the Artifact Evaluation Committee of SOSP'21. Please consider registring your artifacts.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>January<br>2021</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px;  text-align: left;">This winter, I will join Microsoft Research as a PhD Collaborator, mentored by Dr. Suman Nath and Dr. Madan Musuvathi. </td>
+  </tr>
+</table>
+
+<script>
+  function showMore() {
+    var table = document.getElementById("newsTable");
+    var rows = table.getElementsByTagName("tr");
+
+    // Show the next n-3 rows
+    for (var i = 3; i < rows.length; i++) {
+      rows[i].style.display = "table-row";
+    }
+
+    // Hide the "Show more" button
+    document.getElementById("showMoreBtn").style.display = "none";
+
+    // Show the "Show less" button
+    document.getElementById("showLessBtn").style.display = "inline-block";
+  }
+
+  function showLess() {
+    var table = document.getElementById("newsTable");
+    var rows = table.getElementsByTagName("tr");
+
+    // Hide the last n-3 rows
+    for (var i = 3; i < rows.length; i++) {
+      rows[i].style.display = "none";
+    }
+
+    // Show the "Show more" button
+    document.getElementById("showMoreBtn").style.display = "inline-block";
+
+    // Hide the "Show less" button
+    document.getElementById("showLessBtn").style.display = "none";
+  }
+</script>
+
+<p><button id="showMoreBtn" onclick="showMore()">Show more…</button>
+<button id="showLessBtn" onclick="showLess()" style="display: none;">Show less…</button></p>
+
+<style>
+  /* Hide rows 4 and beyond by default */
+  #newsTable tr:nth-child(n+4) {
+    display: none;
+  }
+</style>
+
+
+
+            </article>
+        </main>
+    
+        <footer>
+          <p class="copyright">
+            <small> © B. A. Stoica 2023
+				    | Last updated on 30 March 2023
+                    | Powered by Jekyll, adapted from 
+                    the <a class="copyright" target="_blank" href="https://github.com/jitinnair1/gradfolio/" rel="noopener noreferrer">Gradfolio</a> template.
+            </small>
+          </p>
+      </footer>
+    </body>
+
+</html>
