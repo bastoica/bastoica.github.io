@@ -1,6 +1,6 @@
 ---
 layout: clean
-permalink: /service
+permalink: /service/
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: clean
-permalink: /teaching
+permalink: /teaching/
 published: true
 ---
 

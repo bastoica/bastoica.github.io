@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: clean
 permalink: /research/
 published: true
 ---
