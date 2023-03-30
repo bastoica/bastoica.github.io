@@ -1,6 +1,6 @@
 ### your site title here
 
-baseurl: #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "bastoica.github.io" #custom url to be used instead of GitHub repository
 
 title: Bogdan "Bo" Alexandru Stoica
