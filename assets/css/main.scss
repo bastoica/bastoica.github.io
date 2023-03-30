@@ -7,8 +7,8 @@
 
 // Width of the content area
 $content-width:    52%;  // 800px;
-$on-phone:         100%; // 450px;
-$on-palm:          100%; // 660px;
+$on-phone:         450px;
+$on-palm:          660px;
 $on-laptop:        52%;
 
 @mixin media-query($device) {
