@@ -6,10 +6,10 @@
 @charset "utf-8";
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    900px;
 $on-phone:         450px;
 $on-palm:          660px;
-$on-laptop:        800px;
+$on-laptop:        900px;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
