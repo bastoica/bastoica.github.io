@@ -27,6 +27,14 @@ In another lifetime, I had a grown-up job working as a Software Engineer for Mic
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2023</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">This summer, I will join the ML Core Engineering team at Google as a Research Intern mentored by Gloria Shen and Dr. Ilya Kavalerov.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>March<br>2023</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of MLSys'23. Please consider submitting your artifacts.</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2022</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted at EuroSys'23. See you in Rome!</td>
   </tr>
