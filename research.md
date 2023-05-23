@@ -16,7 +16,7 @@ published: true
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>, Shan Lu, Madan Musuvathi, and Suman Nath.</i><br>
 	  <i>The 18th ACM SIGOPS European Conference on Computer Systems (<a class="useful-links" href="https://2023.eurosys.org/" target="_blank"><b>EuroSys</b></a>). Rome, Italy. May, 2023. Acceptance Rate: ≈16%, 54 out of 335</i><br>
-	  <a class="useful-links" href="/files/papers/2023_eurosys_waffle.pdf" target="_blank">Paper</a> / <a class="useful-links" href="files/slides/2023_eurosys_talk.pptx" target="_blank">Slides</a> / <a class="useful-links" href="/files/posters/2023_eurosys_poster.pdf" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Video</a> / <a class="useful-links" href="https://github.com/bastoica/waffle" target="_blank">Code</a>
+	  <a class="useful-links" href="/files/papers/2023_eurosys_waffle.pdf" target="_blank">Paper</a> / <a class="useful-links" href="/files/posters/2023_eurosys_poster.pdf" target="_blank">Poster</a> / <a class="useful-links" href="files/slides/2023_eurosys_slides.ppsx" target="_blank">Slides</a> / <a class="useful-links" href="https://github.com/bastoica/waffle" target="_blank">Code</a>
 	</td>
   </tr>
 </table>
