@@ -6,7 +6,7 @@ url: "bastoica.github.io" #custom url to be used instead of GitHub repository
 title: Bogdan "Bo" Alexandru Stoica
 title_short: B. A. Stoica
 description: CS PhD student in Systems at UChicago
-useful_links: <a class="useful-links" target="_blank" href="/files/metadata/bogdan_alexandru_stoica_cv.pdf">CV</a> / <a class="useful-links" target="_blank" href="https://github.com/bastoica">GitHub</a> / <a class="useful-links" target="_blank" href="https://discuss.systems/@CacheMisses">Mastodon</a> / <a class="useful-links" target="_blank" href="https://twitter.com/CacheMisses">Twitter</a>
+useful_links: <a class="useful-links" target="_blank" href="/files/metadata/bogdan_alexandru_stoica_cv.pdf">CV</a> / <a class="useful-links" target="_blank" href="https://github.com/bastoica">GitHub</a> / <a class="useful-links" target="_blank" rel="me" href="https://discuss.systems/@CacheMisses">Mastodon</a> / <a class="useful-links" target="_blank" href="https://twitter.com/CacheMisses">Twitter</a>
 contact: "Contact: bastoica-AT-uchicago-DOT-edu"
 email: #
 
