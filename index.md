@@ -27,6 +27,18 @@ In another lifetime, I had a grown-up job working as a Software Engineer for Mic
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>June<br>2024</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will co-organize a Birds of a Fether (BoF) session on facilitating systems reproducibility with the <a href="https://chameleoncloud.org/blog/2023/03/20/the-practical-reproducibility-opportunity/" target="_blank">Chameleon testbed</a> at this years joint OSDI \& ATC conferences. See you all in Santa Clara, CA!</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2024</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will give a talk about using artifact reproducibility as a classroom tool as part of the "Practical Strategies for Teaching Reproducibility" tutorial at ACM REP'24.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2023</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of this year's SOSP. Looking forward to seeing your artifacts!.</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2023</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">This summer, I will join the Core ML Engineering team at Google as a Research Intern mentored by Gloria Shen and Dr. Ilya Kavalerov.</td>
   </tr>
