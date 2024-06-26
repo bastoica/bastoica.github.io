@@ -36,7 +36,7 @@ In another lifetime, I had a grown-up job working as a Software Engineer for Mic
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2023</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of this year's SOSP. Looking forward to seeing your artifacts!.</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of this year's SOSP. Looking forward to seeing your artifacts!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2023</i></td>
