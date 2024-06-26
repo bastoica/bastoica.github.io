@@ -30,10 +30,17 @@ published: true
 
 <table id="talksTable" style="border-collapse: collapse;">
   <tr>
+    <td class="table-left-column">[T5]</td>
+    <td class="table-right-column">
+	  <b>Artifact Reproducibility as a Classroom Tool</b><br>
+	  <i>&emsp;&ensp;Invited Tutorial Talk. ACM REP'24. Rennes, France. June 2024.</i><br>
+	</td>
+  </tr>
+  <tr>
     <td class="table-left-column">[T4]</td>
     <td class="table-right-column">
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
-	  <i>&emsp;&ensp;Conference Talk. Rome, Italy. May 2023.</i><br>
+	  <i>&emsp;&ensp;Conference Talk. EuroSys'23. Rome, Italy. May 2023.</i><br>
 	</td>
   </tr>
   <tr>
@@ -41,14 +48,14 @@ published: true
     <td class="table-right-column">
 	  <b>Failure Diagnosis with Hardware Support</b><br>
 	  <i>&emsp;&ensp;Seminar. Imperial Collage London. Jan 2019.</i><br>
-	  <i>&emsp;&ensp;Invited Talk. University of Illinois at Urbana-Champaign. Sep 2018.</i><br>
+	  <i>&emsp;&ensp;Invited Talk. University of Illinois at Urbana-Champaign. Champaign, IL. Sep 2018.</i><br>
 	</td>
   </tr>
   <tr>
     <td class="table-left-column">[T2]</td>
     <td class="table-right-column">
 	  <b>Exploring Hardware Data Logging on Modern CPUs</b><br>
-	  <i>&emsp;&ensp;Seminar. Microsoft Research, Redmond WA. Sep 2018.</i><br>
+	  <i>&emsp;&ensp;Seminar. Microsoft Research. Redmond, WA. Sep 2018.</i><br>
 	</td>
   </tr>
   <tr>
