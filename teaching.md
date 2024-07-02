@@ -33,42 +33,42 @@ published: true
    <table id="taUChicago" style="border-collapse: collapse;">
      <tr>
        <td class="table-left-column">MCS-21001: Software Construction (undergraduate)</td>
-       <td class="table-right-column fixed-width">2022</td>
+       <td class="table-right-column table-fixed-column-width">2022</td>
     </tr>
     <tr>
       <td class="table-left-column">MPCS-52030: Operating Systems (graduate)</td>
-      <td class="table-right-column fixed-width">2020</td>
+      <td class="table-right-column table-fixed-column-width">2020</td>
     </tr>
     <tr>
       <td class="table-left-column">CAPP-30122: Computer Science with Applications II (graduate)</td>
-      <td class="table-right-column fixed-width">2020</td>
+      <td class="table-right-column table-fixed-column-width">2020</td>
     </tr>
     <tr>
       <td class="table-left-column">MPCS-55001: Algorithms (graduate)</td>
-      <td class="table-right-column fixed-width">2019</td>
+      <td class="table-right-column table-fixed-column-width">2019</td>
     </tr>
   </table>
      
 * Swiss Federal Institute of Technology in Lausanne (EPFL)  
    <table id="taEPFL" style="border-collapse: collapse;">
      <tr>
-       <td class="table-left-column">CS-173: Digital Systems Design (undergraduate)</td>
-       <td class="table-right-column fixed-width">2018</td>
+       <td class="table-left-column table-fixed-column-width">CS-173: Digital Systems Design (undergraduate)</td>
+       <td class="table-right-column">2018</td>
     </tr>
     <tr>
-      <td class="table-left-column">CS-207: Systems Oriented Programming (undergraduate)</td>
-      <td class="table-right-column fixed-width">2015, 2017</td>
+      <td class="table-left-column table-fixed-column-width">CS-207: Systems Oriented Programming (undergraduate)</td>
+      <td class="table-right-column">2015, 2017</td>
     </tr>
     <tr>
-      <td class="table-left-column">CS-250: Algorithms (undergraduate)</td>
-      <td class="table-right-column fixed-width">2015, 2016, 2017</td>
+      <td class="table-left-column table-fixed-column-width">CS-250: Algorithms (undergraduate)</td>
+      <td class="table-right-column ">2015, 2016, 2017</td>
     </tr>
     <tr>
-      <td class="table-left-column">CS-450: Advanced Algorithms (graduate)</td>
-      <td class="table-right-column fixed-width">2013, 2014, 2016</td>
+      <td class="table-left-column table-fixed-column-width">CS-450: Advanced Algorithms (graduate)</td>
+      <td class="table-right-column">2013, 2014, 2016</td>
     </tr>
     <tr>
-      <td class="table-left-column">CS-150: Discrete Structures (undergraduate)</td>
-      <td class="table-right-column fixed-width">2013</td>
+      <td class="table-left-column table-fixed-column-width">CS-150: Discrete Structures (undergraduate)</td>
+      <td class="table-right-column">2013</td>
     </tr>
   </table>
