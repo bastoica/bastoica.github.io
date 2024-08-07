@@ -11,7 +11,7 @@ published: true
 
 <table id="papersTable" style="border-collapse: collapse;">
   <tr>
-    <td class="table-left-column" class="news-style"><b>EuroSys'23</b></td>
+    <td class="table-left-column"><b>EuroSys'23</b></td>
     <td class="table-right-column">
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>, Shan Lu, Madan Musuvathi, and Suman Nath.</i><br>
@@ -30,21 +30,21 @@ published: true
 
 <table id="talksTable" style="border-collapse: collapse;">
   <tr>
-    <td class="table-left-column">[T5]</td>
+    <td class="table-left-column"><b>Conference</b></td>
     <td class="table-right-column">
 	  <b>Artifact Reproducibility as a Classroom Tool</b><br>
 	  <i>&emsp;&ensp;Invited Tutorial Talk. ACM REP'24. Rennes, France. June 2024.</i><br>
 	</td>
   </tr>
   <tr>
-    <td class="table-left-column">[T4]</td>
+    <td class="table-left-column"><b>Conference</b></td>
     <td class="table-right-column">
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
 	  <i>&emsp;&ensp;Conference Talk. EuroSys'23. Rome, Italy. May 2023.</i><br>
 	</td>
   </tr>
   <tr>
-    <td class="table-left-column">[T3]</td>
+    <td class="table-left-column"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Failure Diagnosis with Hardware Support</b><br>
 	  <i>&emsp;&ensp;Seminar. Imperial Collage London. Jan 2019.</i><br>
@@ -52,14 +52,14 @@ published: true
 	</td>
   </tr>
   <tr>
-    <td class="table-left-column">[T2]</td>
+    <td class="table-left-column"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Exploring Hardware Data Logging on Modern CPUs</b><br>
 	  <i>&emsp;&ensp;Seminar. Microsoft Research. Redmond, WA. Sep 2018.</i><br>
 	</td>
   </tr>
   <tr>
-    <td class="table-left-column">[T1]</td>
+    <td class="table-left-column"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Modern Hardware and OS Support for Efficient Execution Tracing</b><br>
 	  <i>&emsp;&ensp;Invited Talk. University of Zurich. Dec 2017.</i><br>
