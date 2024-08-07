@@ -631,6 +631,9 @@ button {
 
   @media (prefers-color-scheme: dark) {
     color: $brand-color-dark;
+    vertical-align: top;
+    padding-bottom: 10px;
+    text-align: left;
   }
 }
 
