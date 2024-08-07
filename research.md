@@ -22,7 +22,7 @@ published: true
 	  <b>If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-informed Tooling for Detecting Retry Bugs in Software Systems</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>*, Utsav Sethi*, Yiming Su, Cyrus Zhou, Shan Lu, Jonathan Mace, Madan Musuvathi, Suman Nath (* denotes equal contribution).</i><br>
 	  <i>(To appear) The 30th Symposium on Operating Systems Principles (<a class="useful-links" href="https://sigops.org/s/conferences/sosp/2024/" target="_blank"><b>SOSP</b></a>). Austin, TX, USA. November, 2024. Acceptance Rate: ≈17%, 43 out of 248</i><br>
-	  <a class="useful-links" href="" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Slides</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
+	  <!--a class="useful-links" href="" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Slides</a> / <a class="useful-links" href="" target="_blank">Code</a><br-->
 	</td>
   </tr>
   <tr>
