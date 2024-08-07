@@ -618,11 +618,11 @@ button {
 
 /* Two column table formatting */
 .table-left-column {
+  color: $brand-color;
   vertical-align: top;
   padding-bottom: 10px;
   text-align: left;
-  color: $brand-color;
-  
+
   @media (prefers-color-scheme: dark) {
     color: $brand-color-dark;
   }
