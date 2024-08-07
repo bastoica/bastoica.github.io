@@ -621,6 +621,11 @@ button {
   vertical-align: top;
   padding-bottom: 10px;
   text-align: left;
+  text-color: $brand-color;
+  
+  @media (prefers-color-scheme: dark) {
+    text-color: $brand-color-dark;
+  }
 }
 
 .table-right-column {
