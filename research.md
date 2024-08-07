@@ -11,7 +11,7 @@ published: true
 
 <table id="papersTable" style="border-collapse: collapse;">
   <tr>
-    <td class="table-left-column">[C1]</td>
+    <td class="table-left-column" class="news-style"><b>EuroSys'23</b></td>
     <td class="table-right-column">
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>, Shan Lu, Madan Musuvathi, and Suman Nath.</i><br>
