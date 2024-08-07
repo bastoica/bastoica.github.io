@@ -6,6 +6,12 @@ published: true
 
 <!-- Papers -->
 
+<style>
+  body {
+    max-width: 1200px; /* Change this value to your desired width */
+  }
+</style>
+
 <h4 class="news-style" style="margin-top: 20px">Peer-Reviewed Publications</h4>
 <hr class="news-style" style="width: 95%; ">
 
