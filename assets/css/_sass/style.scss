@@ -618,6 +618,12 @@ button {
 
 /* Two column table formatting */
 .table-left-column {
+  vertical-align: top;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+.table-left-column-with-text-color {
   color: $brand-color;
   vertical-align: top;
   padding-bottom: 10px;
