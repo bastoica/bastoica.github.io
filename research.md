@@ -62,22 +62,22 @@ published: true
     <td class="table-left-column-with-text-color"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Failure Diagnosis with Hardware Support</b><br>
-	  <i>Seminar. Imperial Collage London. Jan 2019.</i><br>
-	  <i>Invited Talk. University of Illinois at Urbana-Champaign. Champaign, IL. Sep 2018.</i><br>
+	  <i>Seminar. Imperial Collage London. London, UK. Jan 2019.</i><br>
+	  <i>Invited Talk. University of Illinois at Urbana-Champaign. Champaign, IL, USA. Sep 2018.</i><br>
 	</td>
   </tr>
   <tr>
     <td class="table-left-column-with-text-color"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Exploring Hardware Data Logging on Modern CPUs</b><br>
-	  <i>Seminar. Microsoft Research. Redmond, WA. Sep 2018.</i><br>
+	  <i>Seminar. Microsoft Research. Redmond, WA, USA. Sep 2018.</i><br>
 	</td>
   </tr>
   <tr>
     <td class="table-left-column-with-text-color"><b>Seminar</b></td>
     <td class="table-right-column">
 	  <b>Modern Hardware and OS Support for Efficient Execution Tracing</b><br>
-	  <i>Invited Talk. University of Zurich. Dec 2017.</i><br>
+	  <i>Invited Talk. University of Zurich. Zurich, Switzerland. Dec 2017.</i><br>
 	</td>
   </tr>
 </table>
