@@ -28,7 +28,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>June<br>2024</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will co-organize a Birds of a Fether (BoF) session on facilitating systems reproducibility with the <a href="https://chameleoncloud.org/blog/2023/03/20/the-practical-reproducibility-opportunity/" target="_blank">Chameleon testbed</a> at this year's joint OSDI & ATC conferences. See you all in Santa Clara, CA!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will co-organize a Birds-of-a-Feather (BoF) session on facilitating systems reproducibility with the <a href="https://chameleoncloud.org/blog/2023/03/20/the-practical-reproducibility-opportunity/" target="_blank">Chameleon testbed</a> at this year's joint OSDI & ATC conferences. See you all in Santa Clara, CA!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2024</i></td>
