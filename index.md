@@ -11,7 +11,7 @@ published: true
 <hr class="news-style" style="width: 95%; ">
 -->
 
-I am a Systems PhD student in the Computer Science Department at the University of Chicago. 
+I am a Systems PhD ~~student~~ candidate in the Computer Science Department at the University of Chicago. 
 I am fortunate to be advised by Prof. <a href="https://people.cs.uchicago.edu/~shanlu/" target="_blank">Shan Lu</a>, and mentored by Prof. <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Haryadi Gunawi</a> (UChicago), Prof. <a href="https://cs.uchicago.edu/people/kexin-pei/" target="_blank">Kexin Pei</a> (UChicago), Dr. <a href="https://www.microsoft.com/en-us/research/people/sumann/" target="_blank">Suman Nath</a> (Microsoft Research) and Dr. <a href="https://www.microsoft.com/en-us/research/people/madanm/" target="_blank">Madan Musuvathi</a> (Microsoft Research). 
 My doctoral studies are supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
 
