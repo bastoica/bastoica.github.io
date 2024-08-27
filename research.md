@@ -21,7 +21,7 @@ published: true
     <td class="table-right-column">
 	  <b>If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-informed Tooling for Detecting Retry Bugs in Software Systems</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>*, Utsav Sethi*, Yiming Su, Cyrus Zhou, Shan Lu, Jonathan Mace, Madan Musuvathi, Suman Nath (*equal contribution).</i><br>
-	  <i>(To appear) The 30th Symposium on Operating Systems Principles (<a class="useful-links" href="https://sigops.org/s/conferences/sosp/2024/" target="_blank"><b>SOSP</b></a>). Austin, TX, USA. November, 2024. Acceptance Rate: ≈17%, 43 out of 248</i><br>
+	  <i>(To appear) The 30th Symposium on Operating Systems Principles (<a class="useful-links" href="https://sigops.org/s/conferences/sosp/2024/" target="_blank"><b>SOSP</b></a>). Austin, TX, USA. November, 2024.</i><br>
 	  <!--a class="useful-links" href="" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Slides</a> / <a class="useful-links" href="" target="_blank">Code</a><br-->
 	</td>
   </tr>
@@ -30,7 +30,7 @@ published: true
     <td class="table-right-column">
 	  <b>Waffle: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection</b><br>
 	  <i><u style="text-decoration-thickness: 2px;">Bogdan Alexandru Stoica</u>, Shan Lu, Madan Musuvathi, and Suman Nath.</i><br>
-	  <i>The 18th ACM SIGOPS European Conference on Computer Systems (<a class="useful-links" href="https://2023.eurosys.org/" target="_blank"><b>EuroSys</b></a>). Rome, Italy. May, 2023. Acceptance Rate: ≈16%, 54 out of 335</i><br>
+	  <i>The 18th ACM SIGOPS European Conference on Computer Systems (<a class="useful-links" href="https://2023.eurosys.org/" target="_blank"><b>EuroSys</b></a>). Rome, Italy. May, 2023.</i><br>
 	  <a class="useful-links" href="/files/papers/2023_eurosys_waffle.pdf" target="_blank">Paper</a> / <a class="useful-links" href="/files/posters/2023_eurosys_poster.pdf" target="_blank">Poster</a> / <a class="useful-links" href="/files/slides/2023_eurosys_slides.ppsx" target="_blank">Slides</a> / <a class="useful-links" href="https://github.com/bastoica/waffle" target="_blank">Code</a><br>
 	   Press: <a class="useful-links" href="https://disseminatepodcast.podcastpage.io/episode/bogdan-stoica-waffle-exposing-memory-ordering-bugs-efficiently-with-active-delay-injection-38" target="_blank">Disseminate - The Computer Science Research Podcast, Ep. #38</a>
 	</td>
