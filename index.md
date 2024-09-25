@@ -16,7 +16,7 @@ I am fortunate to be advised by Prof. <a href="https://people.cs.uchicago.edu/~s
 My doctoral studies are supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
 
 My research focuses on improving the correctness and performance of large-scale distributed systems.
-I build tools rooted in program analysis, code instrumentation, fault injection, and execution profiling to help developers better reason about their code and isolate bugs faster.
+I build tools that rely on program analysis, code instrumentation, fault injection, execution profiling, and large language models as support for code comprehension, to help developers better reason about their code and isolate bugs faster.
 
 Before joining UChicago, I obtained my MSc degree from the Swiss Federal Institute of Technology in Lausanne (EPFL) and my BSc degree from the University of Bucharest.
 In a previous life, I had a grown-up job working as a Software Engineer for Microsoft and Bitdefender Labs.
