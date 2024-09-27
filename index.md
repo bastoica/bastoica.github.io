@@ -27,12 +27,24 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>Oct<br>2024</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying retry bugs was accepted at <a href="https://sigops.org/s/conferences/sosp/2024/" tafget="_blank">SOSP'24</a>. See you in Austin, TX!</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>Sep<br>2024</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will give an invited talk about the challenges and opportunities of integrating large language models with traditional bug-finding techniques at <a href="https://sites.google.com/view/pacmi/home" tafget="_blank">PACMI'24</a>.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>Aug<br>2024</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of EuroSys'25. Looking forward to trying out your artifacts!</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>June<br>2024</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will co-organize a Birds-of-a-Feather (BoF) session on facilitating systems reproducibility with the <a href="https://chameleoncloud.org/blog/2023/03/20/the-practical-reproducibility-opportunity/" target="_blank">Chameleon testbed</a> at this year's joint OSDI & ATC conferences. See you all in Santa Clara, CA!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will co-organize a Birds-of-a-Feather (BoF) session on facilitating systems reproducibility with the <a href="https://chameleoncloud.org/blog/2023/03/20/the-practical-reproducibility-opportunity/" target="_blank">Chameleon testbed</a> at <a href="https://www.usenix.org/conference/osdi24/" tafget="_blank">OSDI'24</a>. See you in Santa Clara, CA!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2024</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will give a talk about using artifact reproducibility as a classroom tool as part of the "Practical Strategies for Teaching Reproducibility" tutorial at ACM REP'24.</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will give a talk about using artifact reproducibility as a classroom tool as part of the "Practical Strategies for Teaching Reproducibility" tutorial at <a href="https://acm-rep.github.io/2024/" tafget="_blank">ACM REP'24</a>.</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2023</i></td>
@@ -48,7 +60,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2022</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted at EuroSys'23. See you in Rome!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted at <a href="https://2023.eurosys.org/" tafget="_blank">EuroSys'23</a>. See you in Rome!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>March<br>2022</i></td>
