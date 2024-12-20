@@ -61,6 +61,13 @@ Retry Bugs in Software Systems</b><br>
 	</td>
   </tr>
   <tr>
+    <td class="table-left-column-with-text-color"><b>Seminar</b></td>
+    <td class="table-right-column">
+	  <b>Understanding, Characterizing and Exposing Deeply-Nested Bugs in Large-Scale Systems</b><br>
+	  <i>Invited Talk. University of Illinois at Urbana-Champaign. Champaign, IL, USA. Sep 2024.</i><br>
+	</td>
+  </tr>
+  <tr>
     <td class="table-left-column-with-text-color"><b>Conference</b></td>
     <td class="table-right-column">
 	  <b>Artifact Reproducibility as a Classroom Tool</b><br>
