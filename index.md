@@ -27,6 +27,10 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>Apr<br>2025</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am deeply honored and incredibly grateful to receive a Distinguished Artifact Evaluator award at <a href="https://2025.eurosys.org/awards.html" tafget="_blank">EuroSys'25</a>.</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Oct<br>2024</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in retry functionality was accepted at <a href="https://sigops.org/s/conferences/sosp/2024/" tafget="_blank">SOSP'24</a>. See you in Austin, TX!</td>
   </tr>
