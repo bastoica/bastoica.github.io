@@ -17,7 +17,7 @@ published: true
 
 <table id="papersTable" style="border-collapse: collapse;">
   <tr>
-    <td class="table-left-column-with-text-color"><b>SOSP'24</b></td>
+    <td class="table-left-column-with-text-color"><b>NSDI'26</b></td>
     <td class="table-right-column">
 	  <b>Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management</b><br>
 	  <i>Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan A. Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu.</i><br>
