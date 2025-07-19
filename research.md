@@ -20,7 +20,7 @@ published: true
     <td class="table-left-column-with-text-color"><b>NSDI'26</b></td>
     <td class="table-right-column">
 	  <b>Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management</b><br>
-	  <i>Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan A. Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu.</i><br>
+	  <i>Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan Alexandru Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu.</i><br>
 	  <i>The 23rd USENIX Symposium on Operating Systems Design and Implementation (<a class="useful-links" href="https://www.usenix.org/conference/nsdi26" target="_blank"><b>NSDI</b></a>), Renton, WA, May 2026. (To appear)</i><br>
 	  <a class="useful-links" href="/files/papers/2026_nsdi_oat.pdf" target="_blank">Paper</a> / <a class="useful-links" href="https://github.com/xlab-uiuc/acto" target="_blank">Code</a><br>
 	</td>
