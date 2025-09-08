@@ -11,12 +11,13 @@ published: true
 <hr class="news-style" style="width: 95%; ">
 -->
 
-I am a Systems PhD ~~student~~ candidate in the Computer Science Department at the University of Chicago. 
-I am fortunate to be advised by Prof. <a href="https://people.cs.uchicago.edu/~shanlu/" target="_blank">Shan Lu</a>, and mentored by Prof. <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Haryadi Gunawi</a> (UChicago), Prof. <a href="https://cs.uchicago.edu/people/kexin-pei/" target="_blank">Kexin Pei</a> (UChicago), Dr. <a href="https://www.microsoft.com/en-us/research/people/sumann/" target="_blank">Suman Nath</a> (Microsoft Research) and Dr. <a href="https://www.microsoft.com/en-us/research/people/madanm/" target="_blank">Madan Musuvathi</a> (Microsoft Research). 
-My doctoral studies are supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
+I am a Postdoctoral Research Associate in the <a href="https://siebelschool.illinois.edu/research/areas/systems-and-networking" target="_blank">SysNet group</a> at the University of Illinois Urbana-Champaign (UIUC) where I am furtunate to be hosted by Prof. <a href="https://siebelschool.illinois.edu/about/people/faculty/tyxu" target="_blank">Tianyin Xu</a>.
 
-My research focuses on improving the correctness and performance of large-scale distributed systems.
-I build tools that rely on program analysis, code instrumentation, fault injection, execution profiling, and large language models as support for code comprehension, to help developers better reason about their code and isolate bugs faster.
+I work at the intersection of Systems, Software Engineering, Programming Languages, and Artificial Intelligence, designing techniques that help software engineers better write, deploy, and reason about their code. 
+I build tools that combine traditional software testing and monitoring techniques with modern AI approaches.
+
+I obtained my PhD from the University of Chicago, after spending several wonderful years in the Second City. I was lucky to be mentored by my rock start advisor, Prof. <a href="https://people.cs.uchicago.edu/~shanlu/" target="_blank">Shan Lu</a>, and guided by several amazing mentors, including Prof. <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Haryadi Gunawi</a> (UChicago), Prof. <a href="https://cs.uchicago.edu/people/kexin-pei/" target="_blank">Kexin Pei</a> (UChicago), Dr. <a href="https://www.microsoft.com/en-us/research/people/sumann/" target="_blank">Suman Nath</a> (Microsoft Research) and Dr. <a href="https://www.microsoft.com/en-us/research/people/madanm/" target="_blank">Madan Musuvathi</a> (Microsoft Research). 
+My doctoral studies were supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
 
 Before joining UChicago, I obtained my MSc degree from the Swiss Federal Institute of Technology in Lausanne (EPFL) and my BSc degree from the University of Bucharest.
 In a previous life, I had a grown-up job working as a Software Engineer for Microsoft and Bitdefender Labs.
@@ -26,6 +27,10 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 
 <table id="newsTable" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2025</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am co-charing the <a href="https://2026.eurosys.org/" tafget="_blank">EuroSys'26</a> Artifact Evaluation Commitee along with Prof. <a href="https://sites.google.com/view/pierreolivier" tafget="_blank">Pierre Olivier</a>. Please consider submitting your artifacts.</td>
+  </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Apr<br>2025</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am deeply honored and incredibly grateful to receive a Distinguished Artifact Evaluator award at <a href="https://2025.eurosys.org/awards.html" tafget="_blank">EuroSys'25</a>.</td>
