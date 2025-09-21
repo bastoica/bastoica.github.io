@@ -30,7 +30,7 @@ published: true
     <td class="table-right-column">
 	  <b>Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency</b><br>
 	  <i>Jun Yang, Cheng-Chi Wang, Bogdan Alexandru Stoica, Kexin Pei.</i><br>
-	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://www.usenix.org/conference/nsdi26" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025. (To appear)</i><br>
+	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://neurips.cc/Conferences/2025" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025. (To appear)</i><br>
 	  <a class="useful-links" href="/files/papers/2025_neurips_wedge.pdf" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
 	</td>
   </tr>
