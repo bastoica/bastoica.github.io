@@ -29,7 +29,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2025</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am co-charing the <a href="https://2026.eurosys.org/" tafget="_blank">EuroSys'26</a> Artifact Evaluation Commitee along with Prof. <a href="https://sites.google.com/view/pierreolivier" tafget="_blank">Pierre Olivier</a>. Please consider submitting your artifacts.</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Prof. <a href="https://sites.google.com/view/pierreolivier" tafget="_blank">Pierre Olivier</a> and I are co-charing the <a href="https://2026.eurosys.org/" tafget="_blank">EuroSys'26</a> Artifact Evaluation Commitee. Please consider submitting your artifacts.</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Apr<br>2025</i></td>
