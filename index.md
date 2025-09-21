@@ -40,19 +40,19 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in Cloud management software was accepted to <a href="https://www.usenix.org/conference/nsdi26" tafget="_blank">NSDI'26</a>. See you in Austin, TX!</td>
   </tr>
   <tr>
-    <td style="padding-bottom: 10px; text-align: left;"><i>Apr<br>2025</i></td>
+    <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2025</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am deeply honored and incredibly grateful to receive a Distinguished Artifact Evaluator award at <a href="https://2025.eurosys.org/awards.html" tafget="_blank">EuroSys'25</a>.</td>
   </tr>
   <tr>
-    <td style="padding-bottom: 10px; text-align: left;"><i>Oct<br>2024</i></td>
+    <td style="padding-bottom: 10px; text-align: left;"><i>October<br>2024</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in retry functionality was accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" tafget="_blank">SOSP'24</a>. See you in Austin, TX!</td>
   </tr>
   <tr>
-    <td style="padding-bottom: 10px; text-align: left;"><i>Sep<br>2024</i></td>
+    <td style="padding-bottom: 10px; text-align: left;"><i>September<br>2024</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will give an invited talk about the challenges and opportunities of integrating large language models with traditional bug-finding techniques at <a href="https://sites.google.com/view/pacmi/home" tafget="_blank">PACMI'24</a>.</td>
   </tr>
   <tr>
-    <td style="padding-bottom: 10px; text-align: left;"><i>Aug<br>2024</i></td>
+    <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2024</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I will serve on the Artifact Evaluation committee of EuroSys'25. Looking forward to trying out your artifacts!</td>
   </tr>
   <tr>
