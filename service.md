@@ -4,7 +4,17 @@ permalink: /service/
 published: true
 ---
 
-<h4 class="news-style" style="margin-top: 20px">Artifact Evaluation Committees</h4>
+<h4 class="news-style" style="margin-top: 20px">Conference Chairing and Steering Committe Service</h4>
+<hr class="news-style" style="width: 95%; ">
+
+&ensp;2026:&emsp;EuroSys  
+
+<h4 class="news-style" style="margin-top: 20px">Program Committee Service</h4>
+<hr class="news-style" style="width: 95%; ">
+
+&ensp;2025:&emsp;EuroSys, PACMI@SOSP  
+
+<h4 class="news-style" style="margin-top: 20px">Artifact Evaluation Committee Service</h4>
 <hr class="news-style" style="width: 95%; ">
 
 &ensp;2025:&emsp;EuroSys  
