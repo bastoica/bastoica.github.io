@@ -26,13 +26,22 @@ published: true
 	</td>
   </tr>
   <tr>
+    <td class="table-left-column-with-text-color"><b>NeurIPS'25</b></td>
+    <td class="table-right-column">
+	  <b>Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency</b><br>
+	  <i>Jun Yang, Cheng-Chi Wang, Bogdan Alexandru Stoica, Kexin Pei.</i><br>
+	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://www.usenix.org/conference/nsdi26" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025. (To appear)</i><br>
+	  <a class="useful-links" href="/files/papers/2025_neurips_wedge.pdf" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
+	</td>
+  </tr>
+  <tr>
     <td class="table-left-column-with-text-color"><b>SOSP'24</b></td>
     <td class="table-right-column">
 	  <b>If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-informed Tooling for Detecting Retry Bugs in Software Systems</b><br>
 	  <i>Bogdan Alexandru Stoica*, Utsav Sethi*, Yiming Su, Cyrus Zhou, Shan Lu, Jonathan Mace, Madan Musuvathi, Suman Nath (*equal contribution).</i><br>
 	  <i>The 30th Symposium on Operating Systems Principles (<a class="useful-links" href="https://sigops.org/s/conferences/sosp/2024/" target="_blank"><b>SOSP</b></a>). Austin, TX, USA. November, 2024.</i><br>
 	  <a class="useful-links" href="/files/papers/2024_sosp_wasabi.pdf" target="_blank">Paper</a> / <a class="useful-links" href="/files/posters/2024_sosp_poster.pdf" target="_blank">Poster</a> / <a class="useful-links" href="/files/talks/2024_sosp_talk.pdf" target="_blank">Slides</a> / <a class="useful-links" href="https://github.com/bastoica/wasabi/" target="_blank">Code</a><br>
-	  	Press: <a class="useful-links" href="https://www.microsoft.com/en-us/research/podcast/abstracts-november-4-2024/" target="_blank">Abstracts - a Microsoft Research Podcast (Nov 4th episode)</a>
+	  	Press: <a class="useful-links" href="https://www.microsoft.com/en-us/research/podcast/abstracts-november-4-2024/" target="_blank">Abstracts - a Microsoft Research Podcast (Nov 4, 2024 episode)</a>
 	</td>
   </tr>
   <tr>
