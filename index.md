@@ -28,8 +28,16 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>September<br>2025</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on guiding fuzzing with LLM-generated pseudo-invariants to synthesize performance tests was accepted to <a href="https://neurips.cc/Conferences/2025/" tafget="_blank">NeurIPS'25</a>. See you in Austin, TX!</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2025</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Prof. <a href="https://sites.google.com/view/pierreolivier" tafget="_blank">Pierre Olivier</a> and I are co-charing the <a href="https://2026.eurosys.org/" tafget="_blank">EuroSys'26</a> Artifact Evaluation Commitee. Please consider submitting your artifacts.</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2025</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in Cloud management software was accepted to <a href="https://www.usenix.org/conference/nsdi26" tafget="_blank">NSDI'26</a>. See you in Austin, TX!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Apr<br>2025</i></td>
@@ -37,7 +45,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Oct<br>2024</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in retry functionality was accepted at <a href="https://sigops.org/s/conferences/sosp/2024/" tafget="_blank">SOSP'24</a>. See you in Austin, TX!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in retry functionality was accepted to <a href="https://sigops.org/s/conferences/sosp/2024/" tafget="_blank">SOSP'24</a>. See you in Austin, TX!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>Sep<br>2024</i></td>
@@ -69,7 +77,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2022</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted at <a href="https://2023.eurosys.org/" tafget="_blank">EuroSys'23</a>. See you in Rome!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on exposing memory order violations using delay injection was accepted to <a href="https://2023.eurosys.org/" tafget="_blank">EuroSys'23</a>. See you in Rome!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>March<br>2022</i></td>
