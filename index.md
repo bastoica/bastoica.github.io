@@ -11,7 +11,7 @@ published: true
 <hr class="news-style" style="width: 95%; ">
 -->
 
-I am a Postdoctoral Research Associate in the <a href="https://siebelschool.illinois.edu/research/areas/systems-and-networking" target="_blank">SysNet group</a> at the University of Illinois Urbana-Champaign (UIUC) where I am furtunate to be hosted by Prof. <a href="https://siebelschool.illinois.edu/about/people/faculty/tyxu" target="_blank">Tianyin Xu</a>.
+I am a Postdoctoral Research Associate in the <a href="https://siebelschool.illinois.edu/research/areas/systems-and-networking" target="_blank">SysNet group</a> at the University of Illinois Urbana-Champaign (UIUC) where I am fortunate to be hosted by Prof. <a href="https://siebelschool.illinois.edu/about/people/faculty/tyxu" target="_blank">Tianyin Xu</a>.
 
 I work at the intersection of Systems, Software Engineering, Programming Languages, and Artificial Intelligence, designing techniques to help software engineers better implement, deploy, and reason about their software. 
 To this end, I build analysis tools that combine traditional software testing and monitoring techniques with modern AI approaches.
