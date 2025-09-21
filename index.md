@@ -29,7 +29,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>September<br>2025</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on guiding fuzzing with LLM-generated pseudo-invariants to synthesize performance tests was accepted to <a href="https://neurips.cc/Conferences/2025/" tafget="_blank">NeurIPS'25</a>. See you in Austin, TX!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on guiding fuzzing with LLM-generated pseudo-invariants to synthesize performance tests was accepted to <a href="https://neurips.cc/Conferences/2025/" tafget="_blank">NeurIPS'25</a>. See you in San Diego, CA!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>August<br>2025</i></td>
@@ -37,7 +37,7 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2025</i></td>
-    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in Cloud management software was accepted to <a href="https://www.usenix.org/conference/nsdi26" tafget="_blank">NSDI'26</a>. See you in Austin, TX!</td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on understanding and identifying bugs in Cloud management software was accepted to <a href="https://www.usenix.org/conference/nsdi26" tafget="_blank">NSDI'26</a>. See you in Renton, WA!</td>
   </tr>
   <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2025</i></td>
