@@ -22,7 +22,7 @@ published: true
 	  <b>Who Watches the Watchers? On the Reliability of Softwarizing Cloud Application Management</b><br>
 	  <i>Jiawei Tyler Gu, Zhen Tang, Yiming Su, Bogdan Alexandru Stoica, Xudong Sun, William X. Zheng, Yue Zhang, Akond Rahman, Chen Wang, and Tianyin Xu.</i><br>
 	  <i>The 23rd USENIX Symposium on Operating Systems Design and Implementation (<a class="useful-links" href="https://www.usenix.org/conference/nsdi26" target="_blank"><b>NSDI</b></a>), Renton, WA, May 2026. (To appear)</i><br>
-	  <a class="useful-links" href="/files/papers/2026_nsdi_oat.pdf" target="_blank">Paper</a> / <a class="useful-links" href="https://github.com/xlab-uiuc/acto" target="_blank">Code</a><br>
+	  <a class="useful-links" href="/files/papers/2026_nsdi_watchers-oat.pdf" target="_blank">Paper</a> / <a class="useful-links" href="https://github.com/xlab-uiuc/acto" target="_blank">Code</a><br>
 	</td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ published: true
 	  <b>Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency</b><br>
 	  <i>Jun Yang, Cheng-Chi Wang, Bogdan Alexandru Stoica, Kexin Pei.</i><br>
 	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://neurips.cc/Conferences/2025" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025. (To appear)</i><br>
-	  <a class="useful-links" href="/files/papers/2025_neurips_wedge.pdf" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
+	  <a class="useful-links" href="/files/papers/2025_neurips_wedge-perfforge.pdf" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
 	</td>
   </tr>
   <tr>
