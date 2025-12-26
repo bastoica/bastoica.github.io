@@ -30,7 +30,7 @@ published: true
     <td class="table-right-column">
 	  <b>Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency</b><br>
 	  <i>Jun Yang, Cheng-Chi Wang, Bogdan Alexandru Stoica, Kexin Pei.</i><br>
-	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://neurips.cc/Conferences/2025" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025. (To appear)</i><br>
+	  <i>The 39th Conference on Neural Information Processing System (<a class="useful-links" href="https://neurips.cc/Conferences/2025" target="_blank"><b>NeurIPS</b></a>), San Diego, CA, Dec 2025.</i><br>
 	  <a class="useful-links" href="/files/papers/2025_neurips_wedge-perfforge.pdf" target="_blank">Paper</a> / <a class="useful-links" href="" target="_blank">Poster</a> / <a class="useful-links" href="" target="_blank">Code</a><br>
 	</td>
   </tr>
@@ -52,6 +52,23 @@ published: true
 	  <i>The 18th ACM SIGOPS European Conference on Computer Systems (<a class="useful-links" href="https://2023.eurosys.org/" target="_blank"><b>EuroSys</b></a>). Rome, Italy. May, 2023.</i><br>
 	  <a class="useful-links" href="/files/papers/2023_eurosys_waffle.pdf" target="_blank">Paper</a> / <a class="useful-links" href="/files/posters/2023_eurosys_poster.pdf" target="_blank">Poster</a> / <a class="useful-links" href="/files/talks/2023_eurosys_talk.ppsx" target="_blank">Slides</a> / <a class="useful-links" href="https://github.com/bastoica/waffle" target="_blank">Code</a><br>
 	   Press: <a class="useful-links" href="https://disseminatepodcast.podcastpage.io/episode/bogdan-stoica-waffle-exposing-memory-ordering-bugs-efficiently-with-active-delay-injection-38" target="_blank">Disseminate - The Computer Science Research Podcast, Ep. #38</a>
+	</td>
+  </tr>
+</table>
+
+
+<!-- Preprints -->
+<h4 class="news-style" style="margin-top: 20px">Preprints, blog posts, others</h4>
+<hr class="news-style" style="width: 95%; ">
+
+<table id="papersTable" style="border-collapse: collapse;">
+  <tr>
+    <td class="table-left-column-with-text-color"><b>Blog (Nov '25)</b></td>
+    <td class="table-right-column">
+	  <b>Defining System Intelligence</b><br>
+	  <i>Xuan Feng, Peng Cheng, Qi Chen, Shan Lu, Chieh-Jan Mike Liang, Bogdan Alexandru Stoica, Zhongxin Guo, Jiahang Xu, Tianyin Xu, and Lidong Zhou.</i><br>
+	  <i> The ACM SIGOPS Blog (<a class="useful-links" href="https://www.sigops.org/2025/defining-system-intelligence/" target="_blank"><b>link</b></a>). November, 19 2025.</i><br>
+	  <a class="useful-links" href="https://github.com/sys-intelligence/system-intelligence-benchmark/blob/main/benchmarks/arteval_bench/README.md" target="_blank">Code</a><br>
 	</td>
   </tr>
 </table>
