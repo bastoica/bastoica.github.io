@@ -28,6 +28,14 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2026</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on CUDA code transformations was accepted to <a href="https://icml.cc/Conferences/2026" tafget="_blank">NSDI'26</a>. See you in Seoul!</td>
+  </tr>
+  <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>February<br>2026</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">I am incredibly excited to orgainze the first ever <a href="https://www.caisconf.org/" tafget="_blank">CAIS'26</a> Artifact Evaluation Commitee. Please consider submitting your artifacts.</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>September<br>2025</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on guiding fuzzing with LLM-generated pseudo-invariants to synthesize performance tests was accepted to <a href="https://neurips.cc/Conferences/2025/" tafget="_blank">NeurIPS'25</a>. See you in San Diego, CA!</td>
   </tr>
