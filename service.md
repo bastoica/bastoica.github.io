@@ -7,7 +7,7 @@ published: true
 <h4 class="news-style" style="margin-top: 20px">Conference Chairing and Steering Committe Service</h4>
 <hr class="news-style" style="width: 95%; ">
 
-&ensp;2026:&emsp;EuroSys (AEC Co-Chair), CAIS (Chair), PACT (Vice-Chair)  
+&ensp;2026:&emsp;EuroSys (AEC Co-Chair), CAIS (AEC Chair), PACT (AEC Vice-Chair)  
 
 <h4 class="news-style" style="margin-top: 20px">Program Committee Service</h4>
 <hr class="news-style" style="width: 95%; ">
