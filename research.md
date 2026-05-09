@@ -93,7 +93,7 @@ published: true
     <td class="table-left-column-with-text-color"><b>Workshop</b></td>
     <td class="table-right-column">
 	  <b>The Missing Mechanics of Artifact Evaluation: Towards Agentic AE</b><br>
-	  <i>Invited Talk. 6th Chameleon User Meeting (NSF-NCAR). Boulder, CO, US. April 2026.</i><br>
+	  <i>Invited Talk. 6th Chameleon Users Meeting (NSF-NCAR). Boulder, CO, US. April 2026.</i><br>
 	</td>
   </tr>
   <tr>
