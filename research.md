@@ -21,7 +21,7 @@ published: true
     <td class="table-right-column">
 	  <b>SemRep: Generative Code Representation Learning with Code Transformations</b><br>
 	  <i>Weichen Li, Jiamin Song, Bogdan Alexandru Stoica, Arav Dhoot, Gabriel Ryan, Shengyu Fu, Kexin Pei</i><br>
-	  <i>The 43rd International Conference on Machine Learning (<a class="useful-links" href="https://icml.cc/Conferences/2026" target="_blank"><b>ICML</b></a>). Seoul, South Korea, July 2026.</i><br>
+	  <i>The 43rd International Conference on Machine Learning (<a class="useful-links" href="https://icml.cc/Conferences/2026" target="_blank"><b>ICML</b></a>). Seoul, South Korea. July 2026.</i><br>
 	  <a class="useful-links" href="/files/papers/2026_icml_semrep.pdf" target="_blank">Paper</a><br>
 	</td>
   </tr>
@@ -89,6 +89,13 @@ published: true
 <hr class="news-style" style="width: 95%; ">
 
 <table id="talksTable" style="border-collapse: collapse;">
+  <tr>
+    <td class="table-left-column-with-text-color"><b>Workshop</b></td>
+    <td class="table-right-column">
+	  <b>The Missing Mechanics of Artifact Evaluation: Towards Agentic AE</b><br>
+	  <i>Invited Talk. 6th Chameleon User Meeting (NSF-NCAR). Boulder, CO, US. April 2026.</i><br>
+	</td>
+  </tr>
   <tr>
     <td class="table-left-column-with-text-color"><b>Conference</b></td>
     <td class="table-right-column">
