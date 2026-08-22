@@ -12,7 +12,7 @@ published: true
 <h4 class="news-style" style="margin-top: 20px">Program Committee Service</h4>
 <hr class="news-style" style="width: 95%; ">
 
-&ensp;2026:&emsp;EuroSys, CAIS, LLM4Code@ICSE, PACMI@SOSP, AgenticOS@ASPLOS 
+&ensp;2026:&emsp;EuroSys, CAIS, LLM4Code@ICSE, PACMI@SOSP, AgenticOS@ASPLOS  
 &ensp;2025:&emsp;PACMI@SOSP  
 
 <h4 class="news-style" style="margin-top: 20px">Artifact Evaluation Committee Service</h4>
