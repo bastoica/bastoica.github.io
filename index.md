@@ -11,13 +11,13 @@ published: true
 <hr class="news-style" style="width: 95%; ">
 -->
 
-I am a Visiting Lecturer and Postdoctoral Fellow in the <a href="https://siebelschool.illinois.edu/research/areas/systems-and-networking" target="_blank">SysNet group</a> at the University of Illinois Urbana-Champaign (UIUC) where I am fortunate to be mentored by Prof. <a href="https://tianyin.github.io/" target="_blank">Tianyin Xu</a> and Prof. <a href="https://mir.cs.illinois.edu/marinov/" target="_blank">Darko Marinov</a>. My research and teaching are generously supported by UIUC's [Future Faculty Fellows](https://siebelschool.illinois.edu/about/positions/postdoctoral/future-faculty-fellows) program.
+I am a Visiting Lecturer and Postdoctoral Fellow in the <a href="https://siebelschool.illinois.edu/research/areas/systems-and-networking" target="_blank">SysNet group</a> at the University of Illinois Urbana-Champaign (UIUC) where I am fortunate to be mentored by Prof. <a href="https://tianyin.github.io/" target="_blank">Tianyin Xu</a> and Prof. <a href="https://mir.cs.illinois.edu/marinov/" target="_blank">Darko Marinov</a>. My research and teaching are, in part, generously supported by UIUC's [Future Faculty Fellows](https://siebelschool.illinois.edu/about/positions/postdoctoral/future-faculty-fellows) program.
 
 I work at the intersection of Systems, Software Engineering, Programming Languages, and Artificial Intelligence, designing techniques to help software engineers better implement, deploy, and reason about their software. 
 To this end, I build analysis tools that combine traditional software testing and monitoring techniques with modern AI approaches.
 
 I obtained my PhD from the University of Chicago, after spending several wonderful years in the Second City. I was lucky to be mentored by my rock start advisor, Prof. <a href="https://people.cs.uchicago.edu/~shanlu/" target="_blank">Shan Lu</a>, and guided by several amazing mentors, including Prof. <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Haryadi Gunawi</a> (UChicago), Prof. <a href="https://cs.uchicago.edu/people/kexin-pei/" target="_blank">Kexin Pei</a> (UChicago), Dr. <a href="https://www.microsoft.com/en-us/research/people/sumann/" target="_blank">Suman Nath</a> (Microsoft Research) and Dr. <a href="https://www.microsoft.com/en-us/research/people/madanm/" target="_blank">Madan Musuvathi</a> (Microsoft Research). 
-My doctoral studies were supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
+My doctoral studies were generously supported, in part, by an [Eckhardt Scholarship](https://physicalsciences.uchicago.edu/academics/financial-aid/eckhardt-scholars/).
 
 Before joining UChicago, I obtained my MSc degree from the Swiss Federal Institute of Technology in Lausanne (EPFL) and my BSc degree from the University of Bucharest.
 In a previous life, I had a grown-up job working as a Software Engineer for Microsoft and Bitdefender Labs.
