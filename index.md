@@ -28,6 +28,10 @@ In a previous life, I had a grown-up job working as a Software Engineer for Micr
 
 <table id="newsTable" style="border-collapse: collapse;">
   <tr>
+    <td style="padding-bottom: 10px; text-align: left;"><i>July<br>2026</i></td>
+    <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper characterizing the "Bugeoisie" -- bug reports created by researchers -- and the challenges of tracking and independently analyzing those bug reports was accepted to <a href="https://conf.researchr.org/home/issta-2026" tafget="_blank">ISSTA'26</a>. Congratulations <a href="[https://weichenxli.github.io/](https://conf.researchr.org/profile/issta-2026/jiyoungkim3)" tafget="_blank">Ji young</a> & team for all your hard work! Thank you, Darko for your mentorship, feedback, and support! See you in Oakland.</td>
+  </tr>
+  <tr>
     <td style="padding-bottom: 10px; text-align: left;"><i>April<br>2026</i></td>
     <td style="padding-bottom: 10px; padding-left: 20px; text-align: left;">Our paper on CUDA code transformations was accepted to <a href="https://icml.cc/Conferences/2026" tafget="_blank">ICML'26</a>. Congratulations <a href="https://weichenxli.github.io/" tafget="_blank">Weichen</a> & team for all your hard work! See you in Seoul!</td>
   </tr>
