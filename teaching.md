@@ -4,6 +4,20 @@ permalink: /teaching/
 published: true
 ---
 
+<h4 class="news-style" style="margin-top: 20px">Instructor</h4>
+<hr class="news-style" style="width: 95%; ">
+
+<table id="instructor" style="border-collapse: collapse;">
+  <tr>
+     <td class="table-left-column">UIUC, CS-423: Operating Systems Design (honors/graduate)</td>
+     <td class="table-right-column">2027</td>
+  </tr>
+  <tr>
+     <td class="table-left-column">UIUC, CS-427: Software Engineering I (honors/graduate)</td>
+     <td class="table-right-column">2026</td>
+  </tr>
+</table>
+
 <h4 class="news-style" style="margin-top: 20px">Co-instructor</h4>
 <hr class="news-style" style="width: 95%; ">
 
