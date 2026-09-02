@@ -17,6 +17,15 @@ published: true
 
 <table id="papersTable" style="border-collapse: collapse;">
   <tr>
+    <td class="table-left-column-with-text-color"><b>ISSTA'26</b></td>
+    <td class="table-right-column">
+	  <b>The Discreet Charm of the Bugeoisie: A First Look at Bug Reports Created by Researchers</b><br>
+	  <i>Ji young Kim, Jana Dragovic, Alessandro Botta, Rithwanul Islam, Alaa Mohamad, Karim Sharaf, Sejuti Sharmin Siddiqui, Divyanshi Joshi, Harini Anand, Nurjemal Saryyeva, Shubham Chapagain, Saad Nasir, Darko Marinov, and Bogdan Alexandru Stoica</i><br>
+	  <i>The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (<a class="useful-links" href="https://conf.researchr.org/home/issta-2026" target="_blank"><b>ISSTA</b></a>). Oakland, CA, USA. October 2026.</i><br>
+	  <a class="useful-links" href="/files/papers/2026_issta_bugeoisie.pdf" target="_blank">Paper</a><br>
+	</td>
+  </tr>
+  <tr>
     <td class="table-left-column-with-text-color"><b>ICML'26</b></td>
     <td class="table-right-column">
 	  <b>SemRep: Generative Code Representation Learning with Code Transformations</b><br>
